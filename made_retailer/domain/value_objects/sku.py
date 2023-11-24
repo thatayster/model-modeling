@@ -1,0 +1,9 @@
+from enum import Enum
+
+
+class SKU(Enum):
+    RED_CHAIR = "RED_CHAIR"
+    TASTELESS_LAMP = "TASTELESS_LAMP"
+    SMALL_TABLE = "SMALL_TABLE"
+    BLUE_CUSHION = "BLUE_CUSHION"
+    BLUE_VASE = "BLUE_VASE"
